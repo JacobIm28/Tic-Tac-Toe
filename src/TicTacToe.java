@@ -2,7 +2,7 @@ import java.util.*;
 
 
 public class TicTacToe {
-    /* AI */
+    /* Computer */
 
     private boolean moveDone;   //If the computer has placed a marker or not every turn
 
